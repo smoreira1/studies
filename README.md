@@ -1,27 +1,56 @@
 # Studies
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.6.
+This repo represents various subjects for study, review and references for overall development.
 
-## Development server
+## Leet code, data structures and algorithm practices.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+https://leetcode.com/
 
-## Code scaffolding
+## Cracking the Code Interview practice.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## TDD Practice
 
-## Build
+function coverage
+statement coverage
+branch coverage
+path coverage
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+## Design Patterns
 
-## Running unit tests
+builder
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+observer
 
-## Running end-to-end tests
+singleton
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+facade
 
-## Further help
+depenceny injection
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+## Angular Jest Configuration
+
+## Angular ESLint Configuration
+
+ng add @angular-eslint/schematics
+
+https://github.com/angular-eslint/angular-eslint
+
+## Angular Prettier Configuration
+
+npm install prettier eslint-plugin-prettier eslint-config-prettier --save-dev
+
+## Angular Husky Git Hooks Configuration
+
+## Angular.json
+
+## TSconfig
+
+## Schematic HTML
+
+## Web Accessability
+
+## Responsive Design
+
+## Solid Princples
+
+## Cypress
