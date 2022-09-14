@@ -1,0 +1,10 @@
+*.xml
+/node_modules
+/coverage
+/.vscode
+/.angular
+/.angular-playground
+/ssl
+/nginx
+*.json
+.npmrc
