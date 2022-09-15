@@ -25,7 +25,9 @@ singleton
 
 facade
 
-depenceny injection
+depdency injection
+
+model view controller
 
 ## Angular Jest Configuration
 
@@ -54,3 +56,5 @@ npm install prettier eslint-plugin-prettier eslint-config-prettier --save-dev
 ## Solid Princples
 
 ## Cypress
+
+## Module Short Cuts
